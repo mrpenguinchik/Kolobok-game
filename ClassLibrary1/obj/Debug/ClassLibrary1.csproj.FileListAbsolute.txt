@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

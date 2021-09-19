@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12 - копия - копия\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12 - копия - копия\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12 - копия - копия\ClassLibrary1\obj\Release\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12 - копия - копия\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12 - копия - копия\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12 - копия - копия\ClassLibrary1\obj\Release\ClassLibrary1.pdb
